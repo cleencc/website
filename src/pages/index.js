@@ -12,6 +12,15 @@ const IndexPage = () => (
         chris@cleen.cc
       </a>
     </p>
+    <p className="mt5 f6 black-30">
+      #react #gatsbyjs #expressjs #javascript
+    </p>
+    <p className="f6 black-30">
+      #laravel #php #sql #graphql #docker #linux
+    </p>
+    <p className="f6 black-30">
+      #ui #ux #design #tachyons #python #machinelearning 
+    </p>
   </div>
 )
 
